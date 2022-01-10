@@ -22,7 +22,7 @@ It took up to 46 seconds in order to finish its execution.
 
 
 
-### Results  
+## Results  
 We have to make the same analysis in less steps, that is refactoring it to make it more efficient. That is reason why we added three different arrays, in order to to store the information that we need from the first for loop and we can get rid of the second for loop. 
 <p align="center">
 <img src="./Resources/arrays.png" width="200" height="80">  
@@ -50,7 +50,7 @@ Now we can appreciate the result of each execution.
 <img src="./Resources/2017.png" width="300" height="200">  
 </p> 
 
-### Summary
+## Summary
  
 - What are the advantages or disadvantages of refactoring code?  
 Refactoring code has many advantages: it improves the understanding that you have of your code, it helps finding bugs, sometimes it improves the performance. However it takes time (that sometimes you don't have) and requires a higher thinking level and patience. You need to decide prior if refactoring the code worth it.  
